@@ -42,7 +42,7 @@
         <x-navbar />
 
            <!-- Conteúdo de exemplo para permitir o scroll -->
-        <main class="max-w-4xl mx-auto py-20 px-4">
+        <main class="max-w-7xl mx-auto px-4">
             {{ $slot }}
         </main>
 

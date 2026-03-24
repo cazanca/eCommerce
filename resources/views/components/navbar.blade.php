@@ -11,7 +11,7 @@ init() {
 :class="scrolled ? 'bg-white/80 backdrop-blur-sm' : 'bg-white'"
 class="sticky top-0 z-50 transition-all duration-300 ease-in-out border border-gray-100 py-2.5">
 
-    <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         <div class="flex items-center justify-between">
 
